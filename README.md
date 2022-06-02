@@ -4,7 +4,7 @@
 
 **Android BLE基础操作框架，基于回调，操作简单。包含扫描、多连接、广播包解析、服务读写及通知等功能。**
 
-- **项目地址：** [https://github.com/xiaoyaoyou1212/BLE](https://github.com/xiaoyaoyou1212/BLE)
+
 
 - **项目依赖：** `compile 'com.vise.xiaoyaoyou:baseble:2.0.6'`
 
